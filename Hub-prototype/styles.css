@@ -8,10 +8,11 @@ Description: Stylesheet of The official submission for the Web Developer take ho
 @font-face {
     font-family: Framna-h1;
     src: url(fonts/FramnaSerif-Regular.ttf);
+}
+@font-face{
     font-family: Framna-body;
     src: url(fonts/FramnaSansBETA10-Regular.ttf);
 }
-
 
 /*=============== VARIABLES CSS ===============*/
 /*

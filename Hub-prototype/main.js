@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let activeFilter = 'all';
     let activeTopic = 'all';
 
-    // JSON array containing data for each project
+    // JSON array containing data for each project 
     const projectsData = [
         {
             title: "Making life with neck stoma easier",
